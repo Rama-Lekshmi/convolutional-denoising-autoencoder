@@ -35,7 +35,7 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## PROGRAM
-```
+```py
 Developed by: Rama E.K. Lekshmi
 Register no.: 212222240082
 
